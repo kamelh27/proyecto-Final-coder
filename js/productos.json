@@ -1,0 +1,152 @@
+[
+    {
+        "id": "celulares-01",
+        "titulo": "iphone 14 pro",
+        "imagen": "/img/celulares/iphone14-pro.jpg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "celulares-02",
+        "titulo": "samsung s22 ultra",
+        "imagen": "./img/celulares/samsung-s22.jpg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "celulares-03",
+        "titulo": "samsung z flid",
+        "imagen": "./img/celulares/samsung-Galaxy-Z-Fold.jpg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 900
+    },
+    {
+        "id": "celulares-04",
+        "titulo": "Xiomi Mi 11-Ultra",
+        "imagen": "./img/celulares/Xiomi Mi 11-Ultra.jpg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 500
+    },
+    {
+        "id": "celulares-05",
+        "titulo": "Xiaomi Black Shark-3",
+        "imagen": "./img/celulares/xiaomi-black-shark-3.jpg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 600
+    },
+    {
+        "id": "consola-01",
+        "titulo": "Xbox One-S",
+        "imagen": "./img/consolas/Xbox-One-S.jpg",
+        "categoria": {
+            "nombre": "Consolas video Juegos",
+            "id": "consolas"
+        },
+        "precio": 700
+    },
+    {
+        "id": "consola-02",
+        "titulo": "Portatil Gamer Acer Nitro",
+        "imagen": "./img/consolas/Portatil-Gamer-Acer-Nitro.jpg",
+        "categoria": {
+            "nombre": "Consolas video Juegos",
+            "id": "consolas"
+        },
+        "precio": 1400
+    },
+    {
+        "id": "consola-03",
+        "titulo": "consola de juego Psp4",
+        "imagen": "./img/consolas/consola de juego Psp4.jpg",
+        "categoria": {
+            "nombre": "Consolas video Juegos",
+            "id": "consolas"
+        },
+        "precio":400
+    },
+    {
+        "id": "consola-04",
+        "titulo": "god of war",
+        "imagen": "./img/consolas/god of war.jpg",
+        "categoria": {
+            "nombre": "Consolas video Juegos",
+            "id": "consolas"
+        },
+        "precio": 120
+    },
+    {
+        "id": "consola-05",
+        "titulo": "Pc Gamer ",
+        "imagen": "./img/consolas/pcGamer.jpg",
+        "categoria": {
+            "nombre": "Consolas video Juegos",
+            "id": "consolas"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "consola-06",
+        "titulo": "Play Ps5",
+        "imagen": "./img/consolas/Ps5-Digital.jpg",
+        "categoria": {
+            "nombre": "Consolas video Juegos",
+            "id": "consolas"
+        },
+        "precio": 1400
+    },
+    {
+        "id": "relojes-01",
+        "titulo": "xiaomi mibro lite smartwatch-13",
+        "imagen": "./img/relojes/reloj-inteligente-xiaomi-mibro-lite-smartwatch-13.jpg",
+        "categoria": {
+            "nombre": "Relojes",
+            "id": "relojes"
+        },
+        "precio": 350
+    },
+    {
+        "id": "relojes-02",
+        "titulo": "Apple series 7",
+        "imagen": "./img/relojes/Apple-series-7.jpg",
+        "categoria": {
+            "nombre": "Relojes",
+            "id": "relojes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "relojes-03",
+        "titulo": "Samsung Galaxy Fit-2",
+        "imagen": "./img/relojes/banda-samsung-Galaxy-Fit-2.jpg",
+        "categoria": {
+            "nombre": "Relojes",
+            "id": "relojes"
+        },
+        "precio": 500
+    },
+    {
+        "id": "relojes-04",
+        "titulo": "Smartwatch Cubitt-ct4",
+        "imagen": "./img/relojes/smartwatch-samsung-cubitt-ct4.jpg",
+        "categoria": {
+            "nombre": "Relojes",
+            "id": "relojes"
+        },
+        "precio": 250
+    }
+]
